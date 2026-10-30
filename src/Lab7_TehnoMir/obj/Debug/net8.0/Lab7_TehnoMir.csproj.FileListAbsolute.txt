@@ -1,0 +1,14 @@
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\bin\Debug\net8.0\Lab7_TehnoMir.exe
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\bin\Debug\net8.0\Lab7_TehnoMir.deps.json
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\bin\Debug\net8.0\Lab7_TehnoMir.runtimeconfig.json
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\bin\Debug\net8.0\Lab7_TehnoMir.dll
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\bin\Debug\net8.0\Lab7_TehnoMir.pdb
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\obj\Debug\net8.0\Lab7_TehnoMir.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\obj\Debug\net8.0\Lab7_TehnoMir.AssemblyInfoInputs.cache
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\obj\Debug\net8.0\Lab7_TehnoMir.AssemblyInfo.cs
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\obj\Debug\net8.0\Lab7_TehnoMir.csproj.CoreCompileInputs.cache
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\obj\Debug\net8.0\Lab7_TehnoMir.dll
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\obj\Debug\net8.0\refint\Lab7_TehnoMir.dll
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\obj\Debug\net8.0\Lab7_TehnoMir.pdb
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\obj\Debug\net8.0\Lab7_TehnoMir.genruntimeconfig.cache
+D:\code\cs\Lab7_TehnoMir-Smolkina\src\Lab7_TehnoMir\obj\Debug\net8.0\ref\Lab7_TehnoMir.dll
